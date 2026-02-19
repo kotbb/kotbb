@@ -1,10 +1,4 @@
 
-<h1 align="center">Hi, I'm Mohamed Kotb</h1>
-
-<h2 align="center">IS Student at FCAI-CU | Backend Developer</h2>
-
-<br>
-
 ### Connect & Profiles
 <p align="left">
   <a href="https://drive.google.com/file/d/1-hpqxk5rZLW_ru9lIEBbsCkY0g5Y-pGK/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/My%20Resume-24753a?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
